@@ -1,0 +1,138 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    background-color: #F6F6F6;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: white;
+    background: black;
+  }
+}
+
+.navbar{
+  width: 100vw;
+  height: 67px;
+  background-color: #FFFFFF;
+  border: 1px solid #00000033;
+  box-shadow: 0px 20px 40px #B0B0B05A;
+
+}
+
+.pTop121{
+  padding-top: 121px;
+}
+
+.pTop19{
+  padding-top: 19px;
+  /* width: 319px; */
+}
+
+.pTop17{
+  padding-top: 17px;
+}
+
+.pTop79{
+  padding-top: 79px;
+}
+
+.p30{
+  padding: 0px 30px;
+}
+
+.p48{
+  padding: 0px 48px;
+}
+
+.headFontColor{
+  color: #404042D9;
+  font-size: 30px;
+}
+
+.font14{
+  font-size: 14px;
+}
+
+.font15{
+  font-size: 15px;
+}
+
+.font17{
+  font-size: 17px;
+}
+
+.buttonUi{
+  width: 100%;
+  height: 60px;
+  border-radius: 15px;
+  border: none;
+}
+
+.brandBgColor{
+  background-color: #F3842A;
+}
+
+.colorWhite{
+  color: #FFFFFF;
+}
+
+.colorGray{
+  color: #767676;
+}
+
+.colorTerms{
+  color: #323232;
+  font-family: 'Inter', sans-serif;
+  flex-wrap: wrap;
+}
+
+.bgWhite{
+  background-color: #FFFFFF;
+}
+
+.d-flex{
+  display: flex;
+  justify-content: center;
+}
+
+.px-2{
+  padding: 0px 16px;
+}
+.imgCircle{
+  width: 74px;
+  height: 74px;
+  border: 5px solid #FFFFFF;
+  border-radius: 50%;
+  margin-top: 15px;
+}
+
+.resultBox{
+  
+  border-radius: 16px;
+  background-color: #DDDDDDD9;
+  color: #404042D9;
+  font-family: 'Inter', sans-serif;
+  padding: 5px 25px;
+  margin: 5px 5px 5px 0px;
+  border: none;
+}
+
+.resultMainDiv{
+  width: 60vw;
+}
