@@ -1,0 +1,7 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/skin-expert/last-result": "pages/skin-expert/last-result.js",
+  "/skin-expert/last-saved": "pages/skin-expert/last-saved.js"
+}

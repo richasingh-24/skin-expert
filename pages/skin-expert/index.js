@@ -5,7 +5,7 @@ import Navbar from "../../components/Navbar";
 export default function SkinExpert() {
     const router = useRouter()
     const handleResult = () => {
-        router.push('/skin-expert/last-result')
+        router.push('/skin-expert/last-saved')
     }
 
   return (
